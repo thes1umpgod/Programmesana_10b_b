@@ -12,7 +12,7 @@ Rimare Sabîne
 Sidorenko Aleksandrs
 7 	
 Siïiòð Deniss
-print(5+6)	
+print(5+6**2)	
 #Skodorovs Vlads
 9 	
 Smirnovs Volodars
