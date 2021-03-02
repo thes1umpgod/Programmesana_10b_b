@@ -1,2 +1,3 @@
 # Programmesana_10b_b
-Pirmais darbs ar GitHub
+Otrais darbs ar GitHub
+es esmu labs programmetajs
